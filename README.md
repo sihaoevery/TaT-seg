@@ -43,3 +43,9 @@ sh ./train_voc_resnet18.sh
 - [ ] Upload pre-trained cocostuff-10k teacher model
 - [ ] Upload training log
 - [ ] Dataset preparation
+
+## Acknowledgment
+
+[pytorch-deeplab-xception](https://github.com/jfzhang95/pytorch-deeplab-xception)
+[DeepLab with PyTorch](https://github.com/kazuto1011/deeplab-pytorch)
+[Overhaul distillation](https://github.com/clovaai/overhaul-distillation)
