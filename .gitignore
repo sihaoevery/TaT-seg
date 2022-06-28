@@ -1,0 +1,6 @@
+*__pycache__*
+run/*
+pretrained/*
+slurm*
+mypath.py
+.vscode
