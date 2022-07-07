@@ -51,3 +51,7 @@ sh ./train_voc_resnet18.sh
 [DeepLab with PyTorch](https://github.com/kazuto1011/deeplab-pytorch)
 
 [Overhaul distillation](https://github.com/clovaai/overhaul-distillation)
+
+[RepDistiller](https://github.com/HobbitLong/RepDistiller)
+
+[ReviewKD](https://github.com/dvlab-research/ReviewKD)
