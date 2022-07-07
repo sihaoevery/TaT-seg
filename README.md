@@ -40,7 +40,7 @@ sh ./train_voc_resnet18.sh
 
 
 ## TO-DO
-- [-] Upload pre-trained cocostuff-10k teacher model
+- [x] Upload pre-trained cocostuff-10k teacher model
 - [ ] Upload training log
 - [ ] Dataset preparation
 
