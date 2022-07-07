@@ -28,7 +28,7 @@ ResNet101 is used as teacher backbone.
 We use the official [model](https://github.com/jfzhang95/pytorch-deeplab-xception). Please download the checkpoint from [here](https://drive.google.com/file/d/1Pz2OT5KoSNvU5rc3w5d2R8_0OBkKSkLR/view) and put it on [./pretrained/](./pretrained/) .
 
 ### COCOStuff-10k
-We train the teacher on our own. Simply running:
+We train the teacher on our own. You may download the checkpoint from [here](https://drive.google.com/file/d/1xir6E-fsKJCwSp48VhfNca361LcPUt6Z/view?usp=sharing) or just simply running:
 ```bash
 sh ./train_cocostuff10k_baseline.sh
 ```
@@ -40,7 +40,7 @@ sh ./train_voc_resnet18.sh
 
 
 ## TO-DO
-- [ ] Upload pre-trained cocostuff-10k teacher model
+- [-] Upload pre-trained cocostuff-10k teacher model
 - [ ] Upload training log
 - [ ] Dataset preparation
 
